@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    
+}
+.Encabezado {
+    border: 10px solid rgb(205, 221, 255);
+    padding: 10px;
+    background-color:rgb(0, 255, 200)
+  }
+  
+.Imagen {
+    width: 20%;
+    float: left;
+    padding:10px;
+    border-left: 10px  solid  rgb(205, 221, 255);
+ 
+  }
+  
+.Contacto {
+    width: 78%;
+    height:220px;
+    float: right;
+    padding: 10px;
+    border-right: 10px solid  rgb(205, 221, 255);
+  }
+.Informacion_personal {
+    width: 100%;
+    float: left;
+    padding: 10px;
+    border-left: 10px solid  rgb(205, 221, 255);
+    border-right: 10px solid  rgb(205, 221, 255);
+    border-top: 10px solid  rgb(205, 221, 255);
+  }
+.Informacion_academica {
+    width: 100%;
+    float: left;
+    padding: 10px;
+    border: 10px solid  rgb(205, 221, 255);;
+  }
+.color_fondo{
+    background-color:rgb(0, 255, 200);
+}
+
+
+  
